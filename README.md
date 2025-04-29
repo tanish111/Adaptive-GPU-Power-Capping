@@ -22,7 +22,8 @@ adaptive-gpu-power-capping/
 ├── models/                 # Trained ML models (CatBoost, XGBoost, etc.)
 ├── evaluation/             # Scripts and logs for testing on YOLO/BERT
 ├── results/                # Figures and tables from the paper
-├── trees.py                # Script to train models
+├── tree_models.py          # Script to train models
+├── merged_results.csv      # Processed dataset used for model training
 └── README.md               # Project overview and instructions
 ```
 

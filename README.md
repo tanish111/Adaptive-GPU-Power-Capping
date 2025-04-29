@@ -18,12 +18,11 @@ This project presents a machine learning-based approach to dynamically determine
 ```
 adaptive-gpu-power-capping/
 │
-├── data/                   # Preprocessed dataset used for model training
-├── notebooks/              # Jupyter notebooks for exploration & training
+├── Datasets/               # Raw dataset used for model training
 ├── models/                 # Trained ML models (CatBoost, XGBoost, etc.)
-├── src/                    # Core scripts for data processing and inference
 ├── evaluation/             # Scripts and logs for testing on YOLO/BERT
 ├── results/                # Figures and tables from the paper
+├── trees.py                # Script to train models
 └── README.md               # Project overview and instructions
 ```
 

@@ -79,5 +79,3 @@ For questions or contributions, contact:
 `f20220053@goa.bits-pilani.ac.in`, `f20221182@goa.bits-pilani.ac.in`
 
 ---
-
-Would you like me to fill in any of the script details (`train_model.py`, etc.) with actual code templates?
